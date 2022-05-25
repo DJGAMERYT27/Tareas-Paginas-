@@ -1,0 +1,51 @@
+header{ 
+    background-color: brown;
+    border: 5px chartreuse;
+    width: 770px;
+    height: 200px;
+    margin: 5px;
+    border-radius: 10px;
+}
+main{
+    width: 780px;
+    height: 400px;
+}
+nav{
+    background-color: blue;
+    width: 150px;
+    height: 390px;
+    float: left;
+    margin: 5px;
+    border-radius: 10px;
+}
+section{
+    background-color: red;
+    width: 450px;
+    height: 390px;
+    float: left;
+    margin: 5px;
+    border-radius: 10px;
+}
+.articulo{
+    background-color: rgb(158, 137, 137);
+    width: 440px;
+    height: 120px;
+    float: left;
+    margin: 5px;
+}
+aside{
+    background-color: aquamarine;
+    width: 150px;
+    height: 390px;
+    float: left;
+    margin: 5px;
+    border-radius: 10px;
+}
+footer{
+    background-color: rgb(63, 29, 29);
+    width: 770px;
+    height: 50px;
+    float: left;
+    margin: 5px;
+    border-radius: 10px;
+}
