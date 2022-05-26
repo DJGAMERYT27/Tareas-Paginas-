@@ -1,0 +1,117 @@
+body{
+    background-color: rgb(13, 223, 205);
+}
+h2{
+    text-align: center;
+    font-size: large;
+    line-height: 10px;
+}
+.imagen{
+    border: 5px;
+    width: 300px;
+    height: 300px;
+    float: left;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+
+}
+
+.DatosPersonales{
+    border: 5px;
+    width: 650px;
+    height: 200px;
+    float: left;
+
+}
+p{
+    text-align: center;
+}
+li{
+    text-align: center;
+}
+.ExperienciaLaboral{
+    border: 5px;
+    width: 1100px;
+    height: 200px;
+    float: left;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+}
+.expe{
+    text-align: left;
+}
+h1{
+    text-align: left;
+}
+.ex{
+    text-align: left;
+}
+.ex{
+    text-align: left;
+}
+
+.educacionyformacion{
+    border: 5px;
+    width: 1100px;
+    height: 250px;
+    float: left;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+
+}
+.lengua{
+    border: 5px;
+    width: 1100px;
+    height: 150px;
+    float: left;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+}
+.otrosidomas{
+    border: 5px;
+    width: 1100px;
+    height: 90px;
+    float: left;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+}
+.capacidades{
+    border: 5px;
+    width: 1100px;
+    height: 200px;
+    float: left;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+}
+.permiso{
+    border: 5px;
+    width: 1100px;
+    height: 200px;
+    float: left;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+}
+.informacion{
+    border: 5px;
+    width: 1100px;
+    height: 200px;
+    float: left;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+}
